@@ -1,7 +1,7 @@
 ### Hello there, I'm Alex otherwise known as Mello 👋
 
 ## I'm a developer and gamer
-- 🔭 I’m currently working on a [Mue][muesite]!
+- 🔭 I’m currently working on [Mue][muesite]!
 - 🌱 I’m currently learning React 
 - 👯 I’m looking to improve Mue
 - 😄 Pronouns: he/him, they/them
