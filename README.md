@@ -3,7 +3,8 @@
 ## I'm a developer and gamer
 - 🔭 I’m currently working on [Mue][muesite]!
 - 🌱 I’m currently learning React 
-- 👯 I’m looking to improve Mue
+- 📈 I’m looking to improve Mue
+- 🏀 My favourite sport is basketball
 - 😄 Pronouns: he/him, they/them
 - ⚡ Fun fact: I was Grand Master on Lucio Ball
 
