@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning React 
 - 📈 I’m looking to improve Mue
 - 🏀 My favourite sport is basketball
-- 😄 Pronouns: he/him, they/them
+- 😄 Pronouns: he/him
 - ⚡ Fun fact: I was Grand Master on Lucio Ball
 
 <br />
