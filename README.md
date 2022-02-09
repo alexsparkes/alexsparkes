@@ -32,4 +32,4 @@
 
 <img align="left" alt="Alex Sparkes' Github Stats" src="https://github-readme-stats.vercel.app/api?username=alexsparkes" />
 
-[muesite]: https://muetab.xyz
+[muesite]: https://muetab.com
