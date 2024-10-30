@@ -40,8 +40,7 @@ I'm a Computer Science student at the University of Hull with a passion for web 
 - 🎨 Deep customization options
 - 🔒 Strong privacy principles
 - 📸 Beautiful photography from contributors
-- ⭐ 200+ stars on main repository
-- 🌟 300+ total stars across organization
+- ⭐ 500+ stars on main repository
 
 ## 📈 GitHub Stats
 
